@@ -8,7 +8,7 @@ print("===== BASIC PYTHON AUTOMATION SCRIPT =====")
 print("\n--- SYSTEM INFORMATION ---")
 print("OS:", platform.system())
 print("OS Version:", platform.version())
-print("Machine:", platform.machine())
+print("Machine:", platform.machine())   
 print("Processor:", platform.processor())
 
 # 2. CURRENT DATE & TIME
