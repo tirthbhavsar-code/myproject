@@ -30,3 +30,10 @@ for root, dirs, files in os.walk(path):
 
 print("\nTotal files deleted:", deleted)
 print("Script finished")
+ 
+
+
+
+
+
+ 
