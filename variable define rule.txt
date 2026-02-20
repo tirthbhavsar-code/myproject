@@ -1,0 +1,51 @@
+Python Variable Rules (Gujarati)
+
+• વેરિએબલનું નામ letter (a-z) અથવા underscore (_) થી શરૂ થવું જોઈએ
+ઉદાહરણ:
+
+name = "Tirth"
+_age = 25
+
+
+• વેરિએબલ નંબરથી શરૂ ન થઈ શકે
+ખોટું:
+
+1name = "Tirth"
+
+
+• વેરિએબલમાં space ન હોવી જોઈએ
+સાચું:
+
+my_name = "Tirth"
+
+
+ખોટું:
+
+my name = "Tirth"
+
+
+• નંબર વાપરી શકાય પણ શરૂઆતમાં નહીં
+
+name1 = "Tirth"
+age2 = 25
+
+
+• Python case-sensitive છે
+
+name = "Tirth"
+Name = "Rahul"
+
+
+બંને અલગ variable છે
+
+• Python keywords વેરિએબલ તરીકે વાપરી શકતા નથી
+ખોટું:
+
+class = "python"
+print = 10
+
+
+• હંમેશા meaningful નામ વાપરવું
+
+salary = 50000
+city = "Ahmedabad"

@@ -1,0 +1,2 @@
+Hello! This file created using Python automation.
+Python is platform independent.

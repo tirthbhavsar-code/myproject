@@ -1,0 +1,29 @@
+How to run Python script on different OS (Windows, Mac, Linux)
+
+*********************Windows mate*****************************
+1.Install Python
+
+2.Python install thayu ke nahi check krva
+python --version
+python3 --version
+
+3.Script run krva
+cd Desktop
+cd pythonscript
+
+and pchi 
+python script.py
+python3 script.py
+
+*********************macOS mate*****************************
+
+1.Most time install j hoy che macos macOS
+
+2.Python install thayu ke nahi check krva
+python3 --version
+
+3.Script run krva
+cd Desktop
+
+and pchi 
+python3 script.py
